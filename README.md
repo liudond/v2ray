@@ -27,7 +27,7 @@
 
 ## 一键部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/jone354df465/v2ray-heroku2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/jone354df465/v2ray-heroku2)
 
 ## Github Actions 管理
 
